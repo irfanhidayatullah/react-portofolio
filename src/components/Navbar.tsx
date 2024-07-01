@@ -63,7 +63,7 @@ function Navbar() {
             Service
           </Text>
           <Box width="75px">
-            <Image src="/public/logo_portofolio.png" alt="Dan Abramov" />
+            <Image src="/logo_portofolio.png" alt="Dan Abramov" />
           </Box>
           <Text
             transitionDuration="500ms"
